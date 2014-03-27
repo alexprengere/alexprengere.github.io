@@ -9,4 +9,4 @@ Hi! My name is *Alex*. Here are some projects I have been working on.
 * [PythonExercises](http://alexprengere.github.io/PythonExercises)
 * [csv2xls](http://alexprengere.github.io/csv2xls)
 
-See you on [GitHub](https://github.com/alexprengere)!
+And more on [GitHub](https://github.com/alexprengere)!
