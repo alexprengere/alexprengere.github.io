@@ -7,6 +7,7 @@ Hi! My name is *Alex*. Here are some projects I have been working on.
 * [PythonBrainFuck](http://alexprengere.github.io/PythonBrainFuck)
 * [FormalSystems](http://alexprengere.github.io/FormalSystems)
 * [PythonExercises](http://alexprengere.github.io/PythonExercises)
+* [PythonTips](http://alexprengere.github.io/PythonTips)
 * [FuzzyDates](https://github.com/alexprengere/fuzzydates)
 * [Daemonify](https://github.com/alexprengere/daemonify)
 * [Medoids](https://github.com/alexprengere/medoids)
