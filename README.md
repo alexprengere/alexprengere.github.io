@@ -12,6 +12,7 @@ Hi! My name is *Alex*. Here are some projects I have been working on.
 * [CurrencyConverter](http://alexprengere.github.io/currencyconverter)
 * [csv2xls](http://alexprengere.github.io/csv2xls)
 * [SubMatch](http://alexprengere.github.io/submatch)
+* [LocalInstall](http://alexprengere.github.io/localinstall)
 * [PythonExercises](http://alexprengere.github.io/PythonExercises)
 * [PythonTips](http://alexprengere.github.io/PythonTips)
 
