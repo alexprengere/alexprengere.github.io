@@ -11,8 +11,10 @@ Hi! My name is *Alex*. Here are some projects I have been working on.
 * [PythonExercises](http://alexprengere.github.io/PythonExercises)
 * [PythonTips](http://alexprengere.github.io/PythonTips)
 * [ReprMixin](https://github.com/alexprengere/reprmixin)
+* [JsonMixin](https://github.com/alexprengere/jsonmixin)
 * [Product](https://github.com/alexprengere/product)
 * [FuzzyDates](https://github.com/alexprengere/fuzzydates)
 * [Medoids](https://github.com/alexprengere/medoids)
+* [Reservoir sampling](https://github.com/alexprengere/reservoir)
 
 More on [GitHub](https://github.com/alexprengere) and [Twitter](https://twitter.com/alexprengere)! Also [a few gists](https://gist.github.com/alexprengere).
